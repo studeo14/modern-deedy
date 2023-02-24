@@ -10,7 +10,7 @@
     '("courseWork" 1)
     '("projectHeadingWithDate" 4)
     '("projectHeading" 3)
-    '("educationHeading" 4)
+    '("educationHeading" 3)
     '("resumeHeading" 4)
     "yourName"
     "yourWebsite"
